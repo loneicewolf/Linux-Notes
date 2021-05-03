@@ -1,2 +1,3 @@
-# Linux-Guides
-Linux Guides - just some basics
+# Linux-Notes
+
+Notes about how to manage several categories in Linux.
